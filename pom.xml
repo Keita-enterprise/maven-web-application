@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.91.100.132:8081/repository/java-release/</url>
+	      <url>http://44.200.66.217:8081/repository/keita-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
